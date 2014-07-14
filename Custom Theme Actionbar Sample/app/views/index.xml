@@ -1,0 +1,8 @@
+<Alloy>
+	<Window exitOnClose="true">
+		<TableView id="table">
+			<TableViewRow title="Actions bar" value="actions"/>
+			<TableViewRow title="Tabs" value="tabs"/>
+		</TableView>
+	</Window>
+</Alloy>
